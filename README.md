@@ -42,4 +42,5 @@ SQL | Power BI | Python | Excel
 * LinkedIn: [Ayushi Jain](http://linkedin.com/in/ayushi-jain-231519385)
 * Email: [ayushijain2200@gmail.com](mailto:ayushijain2200@gmail.com)
 
+---
 ⭐ *Open to Data Analyst roles and opportunities*
